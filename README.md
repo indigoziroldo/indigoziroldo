@@ -1,4 +1,9 @@
-### Hello world,
+
+<div id="header" align="center">
+  <img src="https://media4.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif?cid=ecf05e47lssnqn79uraa1ecyn181v67cpijf2t37kjkvdqik&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="300"/>
+</div>
+<br>
+
    My name is Indigo, a novice coder deeply captivated by the realms of cyberpunk and cutting-edge technology. My journey began as a computer technician, navigating the world of programming with a natural curiosity and problem-solving flair. Delving into the fundamentals of C++ and JS through self-guided learning, my projects expanded alongside my aspirations. Currently immersed in the study of computer science, I eagerly embrace new challenges and enjoy experimenting with unconventional ideas.
 
    Actively participating in virtual coding communities, I exchange experiences with fellow enthusiasts, always eager to learn from others. Despite facing obstacles, my commitment to mastering programming remains unwavering. Fueled by a passion for coding and the seamless integration of technology and imagination, I am charting a distinctive course in the digital frontier. With a determined spirit, I welcome the boundless possibilities ahead, ready to illuminate the future with the neon glow of code. In this convergence of worlds, I am poised to sculpt a digital destiny that mirrors both technical prowess and a deep affinity for cyberpunk aesthetics.
